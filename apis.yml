@@ -1,0 +1,7 @@
+aid: science-applications-international
+url: https://raw.githubusercontent.com/api-evangelist/science-applications-international/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.science-applications-international.com
