@@ -1,0 +1,146 @@
+vocabulary:
+  name: Science Applications International Corporation (SAIC) Vocabulary
+  description: >-
+    Domain vocabulary for SAIC covering government IT services, defense technology,
+    digital transformation, cybersecurity, cloud computing, and DevSecOps terminology.
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: SAIC
+      definition: >-
+        Science Applications International Corporation — a Fortune 500 American
+        technology integrator headquartered in Reston, Virginia, providing IT services
+        primarily to the U.S. federal government with ~$7.4B in annual revenues.
+      abbreviation: SAIC
+      tags:
+        - Company
+        - Government IT
+
+    - term: Full Life Cycle Services
+      definition: >-
+        SAIC's core service model providing end-to-end technology support from
+        concept and design through development, deployment, operations, and maintenance
+        of government IT systems.
+      tags:
+        - Services
+        - Methodology
+
+    - term: Digital Transformation
+      definition: >-
+        The integration of digital technology into all areas of government operations,
+        fundamentally changing how agencies operate and deliver services to citizens.
+        A primary SAIC service line.
+      tags:
+        - Services
+        - Cloud
+
+    - term: IT Modernization
+      definition: >-
+        The process of updating legacy government IT systems to modern architectures,
+        often involving cloud migration, microservices, and DevSecOps practices.
+        A key SAIC competency for federal customers.
+      tags:
+        - Services
+        - Government IT
+
+    - term: DevSecOps
+      definition: >-
+        Development, Security, and Operations — a software development methodology
+        that integrates security practices into the DevOps process. SAIC's Anvil
+        tool provides a DevSecOps container for CI/CD pipelines.
+      abbreviation: DevSecOps
+      tags:
+        - Methodology
+        - Cybersecurity
+        - Open Source
+
+    - term: CloudScend Foresight
+      definition: >-
+        SAIC's cloud modernization product that helps agencies assess and plan
+        application migration to the cloud, providing automated analysis of
+        legacy applications.
+      tags:
+        - Products
+        - Cloud
+
+    - term: Ephemeral Virtual Training Range (EVTR)
+      definition: >-
+        SAIC's open source platform for spinning up temporary, isolated virtual
+        environments for cybersecurity training and exercises. Available on GitHub.
+      abbreviation: EVTR
+      tags:
+        - Products
+        - Cybersecurity
+        - Open Source
+
+    - term: Anvil
+      definition: >-
+        SAIC's open source DevSecOps tools container for local development and
+        CI/CD pipelines. Includes security scanning, testing, and build tools.
+        Available at github.com/saic-oss/anvil.
+      tags:
+        - Tools
+        - Open Source
+        - DevSecOps
+
+    - term: Zero Trust Architecture
+      definition: >-
+        A security model based on the principle of "never trust, always verify"
+        that requires all users and systems to be authenticated and authorized
+        before accessing any resources, regardless of network location.
+      tags:
+        - Cybersecurity
+        - Architecture
+
+    - term: Technical Integration
+      definition: >-
+        SAIC's core competency in integrating complex government IT systems from
+        multiple vendors into cohesive enterprise architectures.
+      tags:
+        - Services
+        - Core Competency
+
+    - term: Defense Intelligence Agency (DIA)
+      definition: >-
+        U.S. intelligence agency; a key SAIC customer in the defense and
+        intelligence community sector.
+      abbreviation: DIA
+      tags:
+        - Customers
+        - Defense
+
+    - term: Artificial Intelligence / Machine Learning (AI/ML)
+      definition: >-
+        AI and ML technologies applied to government operations, including
+        data analysis, autonomous systems, and intelligent decision support.
+        An expanding SAIC service area recognized in IDC MarketScape.
+      abbreviation: AI/ML
+      tags:
+        - Technology
+        - AI
+
+    - term: Kubernetes
+      definition: >-
+        Container orchestration platform; SAIC's DevSecOps tools include
+        terraform modules for Kubernetes-based DevSecOps sandboxes.
+      tags:
+        - Technology
+        - Infrastructure
+
+    - term: Terraform
+      definition: >-
+        Infrastructure-as-code tool. SAIC provides open source Terraform modules
+        for provisioning DevSecOps sandboxes (terraform-k8s-devsecops-sandbox).
+      tags:
+        - Tools
+        - Infrastructure
+        - Open Source
+
+    - term: Contract Vehicle
+      definition: >-
+        A pre-competed government contract mechanism that allows agencies to
+        issue task orders for IT services without a full competition. SAIC holds
+        numerous GWAC (Government-Wide Acquisition Contract) vehicles.
+      tags:
+        - Business
+        - Government Procurement

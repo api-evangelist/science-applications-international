@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "saic": "https://www.saic.com/ontology/",
+    "dcterms": "http://purl.org/dc/terms/",
+
+    "TechnologyCompany": "schema:Organization",
+    "GovernmentContractor": "schema:Organization",
+    "TechnologyService": "schema:Service",
+    "ITSolution": "schema:SoftwareApplication",
+    "CloudService": "schema:SoftwareApplication",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "foundingDate": "schema:foundingDate",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "revenue": "schema:annualRevenue",
+
+    "cloudComputing": "saic:CloudComputing",
+    "cybersecurity": "saic:Cybersecurity",
+    "artificialIntelligence": "saic:ArtificialIntelligence",
+    "digitalTransformation": "saic:DigitalTransformation",
+    "dataAnalytics": "saic:DataAnalytics",
+    "enterpriseIT": "saic:EnterpriseIT",
+
+    "federalGovernment": "saic:FederalGovernment",
+    "defenseAgency": "saic:DefenseAgency",
+    "intelligenceCommunity": "saic:IntelligenceCommunity",
+    "civilianAgency": "saic:CivilianAgency",
+
+    "devSecOps": "saic:DevSecOps",
+    "cloudMigration": "saic:CloudMigration",
+    "zeroTrust": "saic:ZeroTrust",
+    "itModernization": "saic:ITModernization",
+
+    "openSourceProject": {
+      "@id": "saic:OpenSourceProject",
+      "@type": "@id"
+    },
+    "githubOrg": {
+      "@id": "saic:githubOrg",
+      "@type": "@id"
+    },
+    "helmChart": "saic:HelmChart",
+    "terraformModule": "saic:TerraformModule",
+    "cicdPipeline": "saic:CICDPipeline"
+  }
+}
