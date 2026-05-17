@@ -27,7 +27,7 @@ apis: []
 common:
   - type: Website
     url: https://www.saic.com/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/saic-oss
   - type: LinkedIn
     url: https://www.linkedin.com/company/saicinc
