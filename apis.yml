@@ -25,6 +25,8 @@ tags:
   - AI
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/science-applications-international-domain-security.yml
   - type: Website
     url: https://www.saic.com/
   - type: GitHubOrganization
