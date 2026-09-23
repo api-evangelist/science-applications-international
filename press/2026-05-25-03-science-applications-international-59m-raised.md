@@ -1,7 +1,9 @@
 ---
 title: Science Applications International — $59M Raised
 url: https://www.startuphub.ai/startups/science-applications-international
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Science Applications International" press release artificial intelligence'
 position: 3
 source: serpapi-google

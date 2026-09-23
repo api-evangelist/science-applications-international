@@ -1,7 +1,9 @@
 ---
 title: SAIC Employees Embrace Generative AI with the Launch ...
 url: https://www.businesswire.com/news/home/20240530732829/en/SAIC-Employees-Embrace-Generative-AI-with-the-Launch-of-Tenjin-GPT
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Science Applications International" press release artificial intelligence'
 position: 1
 source: serpapi-google
