@@ -35,7 +35,7 @@ description: >-
   including Anvil (CI/CD container) and terraform modules for Kubernetes sandboxes.
 url: https://raw.githubusercontent.com/api-evangelist/science-applications-international/refs/heads/main/apis.yml
 created: '2026-05-02'
-modified: '2026-05-02'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Government IT
@@ -58,6 +58,8 @@ tags_raw:
   - Federal-Government
 apis: []
 common:
+  - url: https://www.saic.com/who-we-are/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/science-applications-international-domain-security.yml
   - type: Website
