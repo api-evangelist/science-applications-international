@@ -1,4 +1,4 @@
-# Science Applications International Corporation - SAIC (science-applications-international)
+# Science Applications International Corporation (SAIC)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,57 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Science Applications International Corporation (SAIC) is a leading American technology integrator providing full life cycle services and solutions in the technical, engineering, and enterprise information technology markets. Headquartered in Reston, Virginia, SAIC serves the U.S. federal government with approximately $7.4 billion in annual revenues, delivering IT modernization, cloud computing, digital transformation, cybersecurity, AI/ML, and data analytics solutions primarily for defense, intelligence, and civilian government customers.
+Science Applications International Corporation (SAIC) is a leading American technology integrator providing full life cycle services and solutions in the technical, engineering, and enterprise information technology markets. Headquartered in Reston, Virginia, SAIC serves the U.S. federal government with approximately $7.4 billion in annual revenues. The company delivers IT modernization, cloud computing, digital transformation, cybersecurity, AI/ML, and data analytics solutions primarily for defense, intelligence, and civilian government customers. SAIC's open source presence is at github.com/saic-oss with DevSecOps tools including Anvil (CI/CD container) and terraform modules for Kubernetes sandboxes.
 
-**URL:** [Visit APIs.json](https://raw.githubusercontent.com/api-evangelist/science-applications-international/refs/heads/main/apis.yml)
+**Areas:** Government IT · Defense Technology · Digital Transformation · Cybersecurity · Cloud Computing · Fortune 500 · Federal Government · Artificial Intelligence
 
-## Tags
+## Science Applications International Corporation (SAIC) on APIs.io
 
-- Government IT
-- Defense Technology
-- Digital Transformation
-- Cybersecurity
-- Cloud Computing
-- Fortune 500
-- Federal Government
-- AI
+Everything profiled for Science Applications International Corporation (SAIC) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/science-applications-international/](https://apis.io/providers/science-applications-international/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-05-02
-- **Modified:** 2026-05-02
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON-LD (1)
 
-No public developer APIs have been documented for SAIC. SAIC primarily operates as a government IT integrator and does not publish a public developer API.
+Linked-data contexts for the provider's vocabulary.
 
-## Open Source Projects
+- [Science Applications International Context](https://apis.io/jsonld/science-applications-international/science-applications-international-context/)
 
-SAIC maintains open source projects at [github.com/saic-oss](https://github.com/saic-oss):
+#### Vocabulary (1)
 
-- **[Anvil](https://github.com/saic-oss/anvil)** — DevSecOps tools container for CI/CD pipelines (Apache-2.0)
-- **[terraform-k8s-devsecops-sandbox](https://github.com/saic-oss/terraform-k8s-devsecops-sandbox)** — Terraform module for Kubernetes DevSecOps sandboxes (GPL-3.0)
-- **[cloudscend-foresight-charts](https://github.com/saic-oss/cloudscend-foresight-charts)** — Helm Charts for CloudScend Foresight cloud modernization product
-- **[evtr-complete-example](https://github.com/saic-oss/evtr-complete-example)** — Ephemeral Virtual Training Range on AWS example
+The provider's domain terms, defined.
 
-## Common Properties
+- [Science Applications International Corporation (SAIC) Vocabulary](https://apis.io/vocabularies/science-applications-international/science-applications-international-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Science Applications International Domain Security](https://apis.io/security/science-applications-international/science-applications-international-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.saic.com/)
-- [GitHub Organization](https://github.com/saic-oss)
-- [LinkedIn](https://www.linkedin.com/company/saicinc)
-- [Wikipedia](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation)
+- [Blog](https://www.saic.com/who-we-are/newsroom)
+- [GitHub](https://github.com/saic-oss)
 
-## Artifacts
+## API Evangelist rating
 
-### Vocabulary
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-- [SAIC Vocabulary](vocabulary/science-applications-international-vocabulary.yml) — Domain terminology for government IT, defense technology, and DevSecOps.
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-### JSON-LD
+**Agent readiness 0.0** — human-only
 
-- [SAIC Context](json-ld/science-applications-international-context.jsonld) — Linked data context mapping SAIC vocabulary to schema.org.
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Maintainers
+**Regulatory alignment 10.0** — Government & Public Sector
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/science-applications-international/](https://apis.io/providers/science-applications-international/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Science Applications International Corporation (SAIC): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/science-applications-international/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
